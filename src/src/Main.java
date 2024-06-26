@@ -9,6 +9,7 @@ public class Main {
 
         Player player = new Player();
 
+
         Umpire umpire = new Umpire();
         umpire.collectNumFromGuesser();
         umpire.collectNumFromPlayer();

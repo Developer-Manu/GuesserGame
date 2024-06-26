@@ -47,6 +47,6 @@ public class Umpire {
         else{
             System.out.println("No player won the game");
         }
-        System.out.println("The guesser number is:"+numFromGuesser);
+        System.out.println("The guesser number is:" +numFromGuesser);
     }
 }
